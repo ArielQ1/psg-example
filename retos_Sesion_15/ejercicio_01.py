@@ -32,3 +32,4 @@ while True:
         print(f"Suma: {num1} + {num2} = {suma}")
         print(f"Resta: {num1} - {num2} = {resta}")
         print(f"Multiplicación: {num1} * {num2} = {multiplicacion}")
+        
