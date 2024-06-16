@@ -6,3 +6,5 @@ for i in range(1, 101):
         print(f"{i} => Fizz")
     elif i % 5 == 0:
         print(f"{i} => Buzz")
+    else:
+        print(i)
